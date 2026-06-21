@@ -1,0 +1,6 @@
+{
+  "name": "Aloha Immo Services",
+  "description": "Mockup d'une agence immobilière premium à Tuléar, Madagascar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
